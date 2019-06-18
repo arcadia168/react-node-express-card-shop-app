@@ -1,4 +1,4 @@
-# Ben Nawaz - Moonpig Card Shop Coding Exercise
+# Ben Nawaz - Card Shop Coding Exercise
 
 Hosted solution on Google Cloud: https://react-express-card-sample-site.appspot.com
 
